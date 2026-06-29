@@ -1,4 +1,8 @@
 {
+  "name": "template",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^30.4.2"
   }
